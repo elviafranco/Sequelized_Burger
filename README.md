@@ -1,10 +1,12 @@
-# Eat-The-Burger
+# Eat-The-Burger - With Sequelize 
 
 ## Overview
 
 Eat-The-Burger is a log application which allows users to input a burger name to order, devour the burger, and delete the burger. 
 
 ## Heroku Link
+https://secret-shelf-96403.herokuapp.com/ 
+
 
 ## Motivation 
 I was motivated to complete this project to gain additional exposure to the Model-View-Controller (MVC) paradigm and to gain additional experience with Models and Sequelize. MVC is an architectural pattern that I had not been familiarized with before and through this project, I learned how to structure my codebase efficiently. Additionally, my experience with this project taught me more about Sequelize for database table modeling.  
