@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS burgersTwo_db;
+CREATE DATABASE burgersTwo_db;
+

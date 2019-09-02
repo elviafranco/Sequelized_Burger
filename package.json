@@ -1,0 +1,27 @@
+{
+  "name": "sequelized_burger",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql2": "^1.7.0",
+    "sequelize": "^5.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elviafranco/Sequelized_Burger.git"
+  },
+  "author": "Elvia Franco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elviafranco/Sequelized_Burger/issues"
+  },
+  "homepage": "https://github.com/elviafranco/Sequelized_Burger#readme"
+}
